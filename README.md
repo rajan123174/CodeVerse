@@ -92,7 +92,7 @@ else:
 
 ##  Built By
 
-**Prashant Gyawali**  
+**Rajan Kaushal**  
 
 
 ---
@@ -100,8 +100,8 @@ else:
 ##  Contact
 
 Want to contribute or give feedback? Reach out at:  
-prashantgyawali890.@gmail.com or praccticoding@gmail.com or 
-prashantgyawali41@gmail.com
+kaushalrajan914@gmail.com or c or 
+juug24btech24632@jainuniversity.ac.in
 
 ---
 
